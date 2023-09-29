@@ -1,0 +1,6 @@
+[submodule "mirror-clone"]
+	path = mirror-clone
+	url = git@github.com:bicmr-ai4math/mirror-clone.git
+[submodule "elan"]
+	path = elan
+	url = git@github.com:bicmr-ai4math/elan.git
